@@ -3,7 +3,7 @@ def nyc_pigeon_organizer(data)
   
   data.each do |name, color, gender, lives|
     name.to_sym
-     new.Hash pigeon_data[name {color, gender, lives}]
+     new.Hash = pigeon_data[name {color, gender, lives}]
     
     
   # new.HASH = pigeon_list
