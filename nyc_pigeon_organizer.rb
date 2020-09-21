@@ -2,7 +2,7 @@ def nyc_pigeon_organizer(data)
   # write your code here!
   
   data.each do |name, color, :gender, :lives|
-    name = :name
+    name.to_sym
     color.to_a
      new.Hash pigeon_data
     
