@@ -3,6 +3,7 @@ def nyc_pigeon_organizer(data)
   
   data.each do |name, :color, :gender, :lives|
     name = :name
+    color.to_a
      new.Hash pigeon_data
     
     
